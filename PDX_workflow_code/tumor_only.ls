@@ -1,0 +1,12 @@
+543_PDX_WES	/project/gccri/CPRIT_PDX/hef_folder/9.re_sequencing/2.gatk/543_PDX_WES.dedupped.realigned.recal.bam
+494_PDX_WES	/project/gccri/CPRIT_PDX/hef_folder/9.re_sequencing/2.gatk/494_PDX_WES.dedupped.realigned.recal.bam
+1917_PDX_WES	/project/gccri/CPRIT_PDX/hef_folder/9.re_sequencing/2.gatk/1917_PDX_WES.dedupped.realigned.recal.bam
+1960_PDX_WES	/project/gccri/CPRIT_PDX/hef_folder/9.re_sequencing/2.gatk/1960_PDX_WES.dedupped.realigned.recal.bam
+2083_PDX_WES	/project/gccri/CPRIT_PDX/hef_folder/9.re_sequencing/2.gatk/2083_PDX_WES.dedupped.realigned.recal.bam
+533_PDX_WES	/project/gccri/CPRIT_PDX/hef_folder/9.re_sequencing/2.gatk/533_PDX_WES.dedupped.realigned.recal.bam
+543_PDX_WGS	/project/gccri/CPRIT_PDX/hef_folder/9.re_sequencing/2.gatk/543_PDX_WGS.dedupped.realigned.recal.bam
+494_PDX_WGS	/project/gccri/CPRIT_PDX/hef_folder/9.re_sequencing/2.gatk/494_PDX_WGS.dedupped.realigned.recal.bam
+1917_PDX_WGS	/project/gccri/CPRIT_PDX/hef_folder/9.re_sequencing/2.gatk/1917_PDX_WGS.dedupped.realigned.recal.bam
+1960_PDX_WGS	/project/gccri/CPRIT_PDX/hef_folder/9.re_sequencing/2.gatk/1960_PDX_WGS.dedupped.realigned.recal.bam
+2083_PDX_WGS	/project/gccri/CPRIT_PDX/hef_folder/9.re_sequencing/2.gatk/2083_PDX_WGS.dedupped.realigned.recal.bam
+533_PDX_WGS	/project/gccri/CPRIT_PDX/hef_folder/9.re_sequencing/2.gatk/533_PDX_WGS.dedupped.realigned.recal.bam
